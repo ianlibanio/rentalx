@@ -3,20 +3,20 @@
 </h1>
 
 <h3 align="center">
-  Ignite - RentalX
+  Ignite - RentX
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ianlibanio/rentalx?color=0bb682&style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ianlibanio/rentx?color=0bb682&style=for-the-badge">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ianlibanio/rentalx?color=0bb682&style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ianlibanio/rentx?color=0bb682&style=for-the-badge">
   
   <a href="https://github.com/ianlibanio/Letmeask/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ianlibanio/rentalx?color=0bb682&style=for-the-badge">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ianlibanio/rentx?color=0bb682&style=for-the-badge">
   </a>
 
   <a href="https://github.com/ianlibanio/Letmeask/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ianlibanio/rentalx?color=0bb682&style=for-the-badge">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/ianlibanio/rentx?color=0bb682&style=for-the-badge">
   </a>
 </p>
 
@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto foi desenvolvido durante a trilha de Node.JS do programa Ignite, da RocketSeat, um programa de aceleração como foco na sua especialização, para quem já domina programação.
 
-Projeto: RentalX.
+Projeto: RentX.
 
 Este é o projeto principal da trilha de Node.JS.
 
@@ -82,7 +82,7 @@ $ yarn dev // npm run dev
 
 ## 📝 Licença
 
-Este projeto usa a licença [MIT](https://github.com/ianlibanio/rentalx/blob/main/LICENSE).
+Este projeto usa a licença [MIT](https://github.com/ianlibanio/rentx/blob/main/LICENSE).
 
 ---
 

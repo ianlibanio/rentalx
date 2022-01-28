@@ -66,10 +66,10 @@ Você irá precisar das seguintes ferramentas em sua máquina: [Git](https://git
     
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ianlibanio/ignite-node-template
+$ git clone https://github.com/ianlibanio/rentx
 
 # Acesse a pasta do projeto no terminal
-$ cd ignite-node-template
+$ cd rentx
 
 # Instale as dependências
 $ yarn install // npm install
